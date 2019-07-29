@@ -60,7 +60,6 @@ def dennis_ritchies_language
 end
 require 'pry'
 def adding_matz
-  binding.pry
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
 #   :known_for => "Ruby",
