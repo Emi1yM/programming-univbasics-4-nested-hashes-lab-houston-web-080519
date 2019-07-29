@@ -1,5 +1,4 @@
-requre 'pry'
-def hopper
+
 	programmer_hash = 
  		{
         :grace_hopper => {
