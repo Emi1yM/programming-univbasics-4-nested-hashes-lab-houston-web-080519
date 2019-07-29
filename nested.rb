@@ -110,7 +110,7 @@ def changing_alan
      
      
 end
-
+require 'pry'
 def adding_to_dennis
 	programmer_hash = 
  		{
